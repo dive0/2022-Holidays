@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='.\src\assets\brave_j4c5Kb8Dce.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.\src\assets\Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ShareX
