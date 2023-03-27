@@ -34,12 +34,12 @@ function App() {
         list={list}
       />
 
-      <DataTable
-        searchDate={searchDate}
-        searchChoice={searchChoice}
-        filteredResult={filteredResult}
-        list={list}
-      />
+        <DataTable
+          searchDate={searchDate}
+          searchChoice={searchChoice}
+          filteredResult={filteredResult}
+          list={list}
+        />
     </div>
   );
 }
