@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-  margin-top: 15%;
+  margin-top: 5%;
   font-size: 5rem;
   color: azure;
 }
@@ -35,9 +35,13 @@ select {
 button {
   width: 70px;
   height: 30px;
-  border-radius: 70%;
+  border-radius: 10px;
   background-color: rgb(109, 109, 232);
   color: aquamarine;
+}
+
+button:hover {
+  background-color: rgb(32, 39, 61);
 }
 
 button:hover,
@@ -57,7 +61,7 @@ table {
   display: inline-block;
   border-collapse: collapse;
   width: 100%;
-  height: 60vh;
+  max-height: 60vh;
   overflow-y: auto;
   border-radius: 17px;
 }
@@ -77,4 +81,18 @@ th {
 
 tbody:nth-child(even) {
   background-color: #abcaff;
+}
+
+.summary {
+  margin: 15px auto;
+  color: white;
+  background-color: rgb(62, 80, 97);
+  font-size: 1.4rem;
+  width: 300px;
+  padding: 20px;
+  border-radius: 17px;
+}
+
+p {
+  margin: 4px;
 }
